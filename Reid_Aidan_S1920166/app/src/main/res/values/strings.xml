@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reid_Aidan_S1920166</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_table">Table</string>
+    <string name="title_activity_calender">Table</string>
+    <string name="title_activity_info">Table</string>
+</resources>
